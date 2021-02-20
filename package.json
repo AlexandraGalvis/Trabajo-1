@@ -1,0 +1,16 @@
+{
+  "name": "1",
+  "version": "1.0.1",
+  "description": "Error en forEach",
+  "main": "entrega1.js",
+  "dependencies": {
+    "numeral": "^2.0.6",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandra alexandragalvis01@gmail.com",
+  "license": "ISC"
+}
